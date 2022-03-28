@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "title": "华为手机",
+      "imgurl": "https://img10.360buyimg.com/n1/s450x450_jfs/t1/85620/36/19939/111110/61d90ba4E66207238/fa922a855f3bf1b2.jpg"
+    },
+    {
+      "id": 1,
+      "title": "华为电脑",
+      "imgurl": "https://img12.360buyimg.com/n1/s450x450_jfs/t1/150048/21/21378/143815/620e0720Ef97f63e2/9e2cc97cce937da1.jpg"
+    },
+    {
+      "id": 1,
+      "title": "华为笔记本",
+      "imgurl": "https://img13.360buyimg.com/n1/s450x450_jfs/t1/128555/35/24015/141054/6226c300Efe45fc4f/5d6a22d068f75432.jpg"
+    }
+  ],
+  "carts": [
+    {
+      "title": "华为手机",
+      "imgurl": "https://img10.360buyimg.com/n1/s450x450_jfs/t1/85620/36/19939/111110/61d90ba4E66207238/fa922a855f3bf1b2.jpg",
+      "id": 1
+    },
+    {
+      "title": "华为手机",
+      "imgurl": "https://img10.360buyimg.com/n1/s450x450_jfs/t1/85620/36/19939/111110/61d90ba4E66207238/fa922a855f3bf1b2.jpg",
+      "id": 2
+    }
+  ]
+}
